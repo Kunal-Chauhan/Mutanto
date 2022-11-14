@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Address",
+  "sourceName": "@openzeppelin/contracts/utils/Address.sol",
+  "abi": [],
+  "bytecode": "0x60808060405234601757603a9081601d823930815050f35b600080fdfe600080fdfea26469706673582212205bd98d9e26555d72687cff455381f9561319f32d3bee09ce30f1ce2db1d70b5264736f6c63430008100033",
+  "deployedBytecode": "0x600080fdfea26469706673582212205bd98d9e26555d72687cff455381f9561319f32d3bee09ce30f1ce2db1d70b5264736f6c63430008100033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
